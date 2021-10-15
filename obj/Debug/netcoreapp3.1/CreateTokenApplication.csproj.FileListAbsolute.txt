@@ -1,0 +1,17 @@
+C:\Users\yasin.ayata\source\repos\CreateTokenApplication\bin\Debug\netcoreapp3.1\CreateTokenApplication.exe
+C:\Users\yasin.ayata\source\repos\CreateTokenApplication\bin\Debug\netcoreapp3.1\CreateTokenApplication.deps.json
+C:\Users\yasin.ayata\source\repos\CreateTokenApplication\bin\Debug\netcoreapp3.1\CreateTokenApplication.runtimeconfig.json
+C:\Users\yasin.ayata\source\repos\CreateTokenApplication\bin\Debug\netcoreapp3.1\CreateTokenApplication.runtimeconfig.dev.json
+C:\Users\yasin.ayata\source\repos\CreateTokenApplication\bin\Debug\netcoreapp3.1\CreateTokenApplication.dll
+C:\Users\yasin.ayata\source\repos\CreateTokenApplication\bin\Debug\netcoreapp3.1\CreateTokenApplication.pdb
+C:\Users\yasin.ayata\source\repos\CreateTokenApplication\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\yasin.ayata\source\repos\CreateTokenApplication\obj\Debug\netcoreapp3.1\CreateTokenApplication.testApp.resources
+C:\Users\yasin.ayata\source\repos\CreateTokenApplication\obj\Debug\netcoreapp3.1\CreateTokenApplication.csproj.GenerateResource.cache
+C:\Users\yasin.ayata\source\repos\CreateTokenApplication\obj\Debug\netcoreapp3.1\CreateTokenApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yasin.ayata\source\repos\CreateTokenApplication\obj\Debug\netcoreapp3.1\CreateTokenApplication.AssemblyInfoInputs.cache
+C:\Users\yasin.ayata\source\repos\CreateTokenApplication\obj\Debug\netcoreapp3.1\CreateTokenApplication.AssemblyInfo.cs
+C:\Users\yasin.ayata\source\repos\CreateTokenApplication\obj\Debug\netcoreapp3.1\CreateTokenApplication.csproj.CoreCompileInputs.cache
+C:\Users\yasin.ayata\source\repos\CreateTokenApplication\obj\Debug\netcoreapp3.1\CreateTokenApplication.csproj.CopyComplete
+C:\Users\yasin.ayata\source\repos\CreateTokenApplication\obj\Debug\netcoreapp3.1\CreateTokenApplication.dll
+C:\Users\yasin.ayata\source\repos\CreateTokenApplication\obj\Debug\netcoreapp3.1\CreateTokenApplication.pdb
+C:\Users\yasin.ayata\source\repos\CreateTokenApplication\obj\Debug\netcoreapp3.1\CreateTokenApplication.genruntimeconfig.cache
